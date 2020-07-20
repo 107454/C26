@@ -1,2 +1,2 @@
-# angryBirdsStage2.5
-Angry Birds stage 2.5 with Class Inheritance and Images
+README.md
+Cheese pizza is flat bread made with tomato sauce called marinana sauce and cheese for example Mozzarella.
